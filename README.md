@@ -1,7 +1,5 @@
 
-# Flexo
-
-## The One and Only!
+# Flexo, the One and Only!
 
 A simple portfolio website for projects I've been a part of
 
